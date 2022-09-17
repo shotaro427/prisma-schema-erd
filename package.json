@@ -1,0 +1,7 @@
+{
+  "name": "prisma-schema-erd",
+  "version": "1.0.0",
+  "description": "Generate mermaid ERD from schema.prsima",
+  "main": "index.js",
+  "license": "MIT"
+}
